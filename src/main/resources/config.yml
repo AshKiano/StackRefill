@@ -1,2 +1,4 @@
 permission: "stackrefill.use"
+
+#Do not touch this unless you know what are you doing
 enabledForPlayers: []
