@@ -1,0 +1,9 @@
+name: StackRefill
+version: '${project.version}'
+main: com.ashkiano.stackrefill.StackRefill
+api-version: '1.16'
+authors: [ AshKiano ]
+commands:
+  stackrefill:
+    description: Toggle the stack refill feature on or off.
+    usage: /<command>
